@@ -1,0 +1,240 @@
+Species,1,2,3,4,5, 
+Ring-necked Pheasant,2,1,0,1,0,Breeder
+Mourning Dove,1,1,0,1,0,Breeder
+Killdeer,1,0,0,0,0,Breeder
+Common Loon,1,0,0,0,1,Breeder
+Alder Flycatcher,0,0,1,0,0,Breeder
+American Crow,3,1,2,2,1,Breeder
+Black-capped Chickadee,2,1,2,2,1,Breeder
+Tree Swallow,0,2,0,0,0,Breeder
+Golden-crowned Kinglet,0,0,0,0,2,Breeder
+Red-breasted Nuthatch,0,0,0,0,1,Breeder
+Gray Catbird,1,0,0,0,0,Breeder
+European Starling,5,0,0,0,0,Breeder
+Hermit Thrush,0,0,0,0,2,Breeder
+American Robin,1,3,1,0,0,Breeder
+American Goldfinch,0,1,0,0,0,Breeder
+Chipping Sparrow,1,0,0,1,0,Breeder
+(Slate-colored Junco) Dark-eyed Junco,0,0,0,0,1,Breeder
+Song Sparrow,2,1,0,0,0,Breeder
+Common Grackle,0,1,0,0,0,Breeder
+Northern Parula,0,0,0,1,1,Breeder
+Yellow Warbler,1,1,1,0,0,Breeder
+Black-throated Blue Warbler,0,0,2,0,0,Breeder
+(Myrtle Warbler) Yellow-rumped Warbler,0,0,0,1,0,Breeder
+Number of Vehicles,0,0,0,0,0
+Excessive Noise,,,,,
+Species,6,7,8,9,10, 
+Ring-necked Pheasant,0,2,2,1,1,Breeder
+Bald Eagle,0,0,0,1,0,Breeder
+(Yellow-shafted Flicker) Northern Flicker,1,0,0,0,0,Breeder
+Alder Flycatcher,1,0,0,2,2,Breeder
+Red-eyed Vireo,1,0,0,0,0,Breeder
+American Crow,2,2,3,0,1,Breeder
+Common Raven,2,0,0,1,0,Breeder
+Black-capped Chickadee,0,0,0,1,0,Breeder
+Tree Swallow,0,3,0,0,0,Breeder
+European Starling,0,1,0,0,0,Breeder
+American Robin,4,0,1,1,0,Breeder
+American Goldfinch,0,0,1,0,0,Breeder
+Chipping Sparrow,0,1,0,0,0,Breeder
+Savannah Sparrow,0,0,1,0,1,Breeder
+Song Sparrow,1,0,1,1,1,Breeder
+Swamp Sparrow,0,0,0,0,1,Breeder
+Bobolink,0,1,1,1,2,Breeder
+Red-winged Blackbird,0,0,0,3,0,Breeder
+Common Grackle,2,0,1,0,0,Breeder
+Common Yellowthroat,0,0,1,1,1,Breeder
+American Redstart,0,1,0,1,0,Breeder
+Yellow Warbler,0,0,2,1,0,Breeder
+Number of Vehicles,0,0,0,0,1
+Excessive Noise,,,,,
+Species,11,12,13,14,15, 
+Ring-necked Pheasant,2,1,1,1,1,Breeder
+Mourning Dove,1,0,1,0,0,Breeder
+American Herring Gull,0,0,1,0,0,Breeder
+American Bittern,1,0,0,0,0,Breeder
+Alder Flycatcher,0,0,1,0,0,Breeder
+Red-eyed Vireo,0,0,0,1,1,Breeder
+Blue Jay,0,0,0,1,0,Breeder
+American Crow,1,2,5,1,2,Breeder
+Black-capped Chickadee,0,0,0,2,1,Breeder
+European Starling,0,2,10,0,0,Breeder
+Veery,0,0,0,0,1,Breeder
+American Robin,0,0,1,1,1,Breeder
+American Goldfinch,1,1,0,0,0,Breeder
+Chipping Sparrow,0,1,0,0,1,Breeder
+Nelson's Sparrow,2,0,0,0,0,Breeder
+Song Sparrow,1,1,1,1,0,Breeder
+Bobolink,0,1,0,0,0,Breeder
+Red-winged Blackbird,0,0,0,1,0,Breeder
+Common Grackle,0,0,0,1,0,Breeder
+Common Yellowthroat,0,1,0,0,0,Breeder
+Yellow Warbler,1,0,0,1,0,Breeder
+Number of Vehicles,1,1,0,4,2
+Excessive Noise,,,,,
+Species,16,17,18,19,20, 
+Wood Duck,0,0,2,0,0,Breeder
+American Wigeon,0,0,1,0,0,Breeder
+Ring-necked Duck,0,0,1,0,0,Breeder
+Mourning Dove,0,1,0,0,0,Breeder
+Alder Flycatcher,0,1,0,1,0,Breeder
+Blue-headed Vireo,0,0,0,1,0,Breeder
+Philadelphia Vireo,1,0,0,0,0,Breeder
+Red-eyed Vireo,0,1,0,0,1,Breeder
+American Crow,0,1,2,4,0,Breeder
+Black-capped Chickadee,0,0,0,1,0,Breeder
+Tree Swallow,0,3,0,0,0,Breeder
+Barn Swallow,0,0,2,0,0,Breeder
+European Starling,1,3,0,0,0,Breeder
+American Robin,1,1,0,0,1,Breeder
+American Goldfinch,0,0,0,1,0,Breeder
+Chipping Sparrow,1,0,0,2,0,Breeder
+White-throated Sparrow,0,1,0,0,0,Breeder
+Song Sparrow,0,1,2,1,0,Breeder
+Swamp Sparrow,0,0,0,1,0,Breeder
+Red-winged Blackbird,0,0,4,1,0,Breeder
+Common Grackle,0,0,2,0,1,Breeder
+Ovenbird,0,0,0,0,1,Breeder
+Nashville Warbler,1,0,0,0,0,Breeder
+Common Yellowthroat,2,1,0,0,0,Breeder
+Northern Parula,1,1,0,0,1,Breeder
+Number of Vehicles,0,2,1,0,0
+Excessive Noise,,,,,
+Species,21,22,23,24,25, 
+Ruffed Grouse,0,0,0,0,1,Breeder
+Ring-necked Pheasant,0,0,1,0,0,Breeder
+Red-eyed Vireo,1,0,0,1,1,Breeder
+American Crow,2,0,0,0,0,Breeder
+Common Raven,0,0,1,0,0,Breeder
+European Starling,1,0,0,0,0,Breeder
+Swainson's Thrush,0,1,0,0,0,Breeder
+American Robin,2,1,1,1,0,Breeder
+Chipping Sparrow,0,0,1,0,0,Breeder
+Song Sparrow,1,0,0,0,0,Breeder
+Common Grackle,1,0,0,0,0,Breeder
+Ovenbird,0,2,1,1,1,Breeder
+Black-and-white Warbler,0,0,1,1,1,Breeder
+Common Yellowthroat,1,0,1,0,0,Breeder
+Cape May Warbler,0,1,0,0,0,Breeder
+Northern Parula,0,1,0,1,2,Breeder
+Black-throated Blue Warbler,0,0,1,1,0,Breeder
+Number of Vehicles,1,0,0,0,0
+Excessive Noise,,,,,
+Species,26,27,28,29,30, 
+Ring-necked Pheasant,0,0,0,1,0,Breeder
+(Yellow-shafted Flicker) Northern Flicker,0,0,0,1,0,Breeder
+Alder Flycatcher,0,0,0,0,2,Breeder
+Philadelphia Vireo,2,0,1,0,0,Breeder
+American Crow,1,2,2,2,1,Breeder
+Black-capped Chickadee,0,1,0,0,1,Breeder
+European Starling,0,0,0,0,1,Breeder
+Swainson's Thrush,0,2,1,0,0,Breeder
+American Goldfinch,0,0,0,6,2,Breeder
+Song Sparrow,0,0,0,1,0,Breeder
+Ovenbird,0,0,2,0,0,Breeder
+Black-and-white Warbler,1,0,0,0,0,Breeder
+Common Yellowthroat,1,0,0,0,1,Breeder
+Northern Parula,0,0,1,1,0,Breeder
+Magnolia Warbler,0,1,0,0,0,Breeder
+Yellow Warbler,0,0,0,1,0,Breeder
+(Myrtle Warbler) Yellow-rumped Warbler,0,0,0,0,1,Breeder
+Black-throated Green Warbler,0,2,1,0,0,Breeder
+Number of Vehicles,0,2,2,0,1
+Excessive Noise,,,,,
+Species,31,32,33,34,35, 
+Canada Goose,0,0,0,0,1,Breeder
+Northern Shoveler,0,0,0,0,2,Breeder
+American Wigeon,0,0,0,0,10,Breeder
+Mallard,0,0,0,0,1,Breeder
+American Black Duck,0,0,0,0,4,Breeder
+Ring-necked Pheasant,1,1,3,0,0,Breeder
+Pied-billed Grebe,0,0,0,0,1,Breeder
+Mourning Dove,0,0,1,1,0,Breeder
+Alder Flycatcher,0,1,0,0,0,Breeder
+Red-eyed Vireo,0,1,0,0,0,Breeder
+American Crow,1,0,2,1,0,Breeder
+Tree Swallow,0,0,0,1,0,Breeder
+Barn Swallow,0,0,0,0,3,Breeder
+Cedar Waxwing,0,0,0,5,0,Breeder
+European Starling,11,2,1,2,0,Breeder
+American Robin,0,0,0,1,0,Breeder
+American Goldfinch,0,0,0,0,1,Breeder
+Chipping Sparrow,1,0,0,0,0,Breeder
+Song Sparrow,1,0,2,3,0,Breeder
+Swamp Sparrow,0,1,1,0,0,Breeder
+Bobolink,0,0,1,0,0,Breeder
+Red-winged Blackbird,0,0,1,1,2,Breeder
+Common Grackle,2,0,0,0,0,Breeder
+Common Yellowthroat,1,0,0,0,0,Breeder
+Yellow Warbler,0,0,1,0,2,Breeder
+Number of Vehicles,0,2,0,0,0
+Excessive Noise,,,,,
+Species,36,37,38,39,40, 
+Ring-necked Pheasant,2,1,0,0,0,Breeder
+Rock Pigeon,0,5,0,0,0,Breeder
+Ruby-throated Hummingbird,0,0,0,0,1,Breeder
+Alder Flycatcher,1,0,1,1,0,Breeder
+Philadelphia Vireo,0,0,0,0,1,Breeder
+Red-eyed Vireo,0,0,0,1,0,Breeder
+American Crow,0,1,0,0,0,Breeder
+Golden-crowned Kinglet,0,0,0,1,0,Breeder
+Cedar Waxwing,0,0,2,0,0,Breeder
+Red-breasted Nuthatch,0,0,1,0,0,Breeder
+European Starling,0,2,2,0,0,Breeder
+Hermit Thrush,0,1,0,0,0,Breeder
+American Robin,3,0,1,2,0,Breeder
+Chipping Sparrow,1,0,0,1,1,Breeder
+Song Sparrow,1,2,1,0,0,Breeder
+Common Grackle,0,2,4,0,0,Breeder
+Ovenbird,0,0,0,0,2,Breeder
+Common Yellowthroat,1,1,0,0,0,Breeder
+Northern Parula,1,0,1,0,0,Breeder
+Magnolia Warbler,1,0,0,0,0,Breeder
+Yellow Warbler,0,0,1,0,0,Breeder
+Black-throated Green Warbler,0,0,0,0,1,Breeder
+Number of Vehicles,0,1,0,0,3
+Excessive Noise,,,,,
+Species,41,42,43,44,45, 
+Ring-necked Pheasant,0,0,0,0,1,Breeder
+Mourning Dove,0,1,0,0,0,Breeder
+Rock Pigeon,0,0,0,5,0,Breeder
+Hairy Woodpecker,0,1,0,0,0,Breeder
+Peregrine Falcon,0,0,0,1,0,Breeder
+Alder Flycatcher,0,0,1,0,0,Breeder
+Blue-headed Vireo,1,0,0,0,0,Breeder
+Philadelphia Vireo,0,1,0,0,0,Breeder
+American Crow,0,0,2,0,1,Breeder
+Black-capped Chickadee,0,1,1,0,1,Breeder
+Tree Swallow,0,0,0,3,0,Breeder
+Golden-crowned Kinglet,1,0,0,0,0,Breeder
+Cedar Waxwing,0,0,0,1,1,Breeder
+European Starling,0,0,10,1,0,Breeder
+American Robin,0,1,0,2,1,Breeder
+American Goldfinch,0,0,0,0,3,Breeder
+Chipping Sparrow,0,0,0,0,1,Breeder
+White-throated Sparrow,0,0,0,1,0,Breeder
+Song Sparrow,0,1,1,0,1,Breeder
+Common Grackle,0,0,0,1,0,Breeder
+Ovenbird,1,1,0,0,0,Breeder
+American Redstart,0,1,0,0,1,Breeder
+Northern Parula,0,0,0,0,1,Breeder
+(Myrtle Warbler) Yellow-rumped Warbler,0,0,0,1,0,Breeder
+Black-throated Green Warbler,1,0,0,1,1,Breeder
+Northern Cardinal,0,0,1,0,0,Breeder
+Number of Vehicles,0,0,5,0,1
+Excessive Noise,,,,,
+Species,46,47,48,49,50, 
+Ruffed Grouse,1,0,0,0,0,Breeder
+Mourning Dove,1,1,1,0,0,Breeder
+Alder Flycatcher,0,1,0,0,0,Breeder
+Red-eyed Vireo,0,1,0,1,0,Breeder
+Blue Jay,1,0,0,0,0,Breeder
+Black-capped Chickadee,0,0,0,2,0,Breeder
+Swainson's Thrush,0,0,0,1,0,Breeder
+Hermit Thrush,0,0,1,0,0,Breeder
+American Robin,0,3,0,0,0,Breeder
+Song Sparrow,1,1,0,0,0,Breeder
+Ovenbird,0,0,0,1,0,Breeder
+Black-and-white Warbler,0,0,1,0,0,Breeder
+Number of Vehicles,0,0,0,0,0
