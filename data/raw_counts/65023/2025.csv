@@ -1,0 +1,263 @@
+Species	1	2	3	4	5
+Canada Goose	0	0	0	1	2	Breeder
+Downy Woodpecker	0	0	0	1	0	Breeder
+Blue-headed Vireo	0	0	0	0	1	Breeder
+American Crow	1	2	1	0	1	Breeder
+Black-capped Chickadee	1	1	0	2	2	Breeder
+Tree Swallow	0	0	1	2	0	Breeder
+Red-breasted Nuthatch	0	0	1	0	1	Breeder
+Swainson's Thrush	0	0	1	0	0	Breeder
+American Robin	2	2	3	2	0	Breeder
+American Goldfinch	1	0	0	0	0	Breeder
+White-throated Sparrow	1	0	0	1	1	Breeder
+Song Sparrow	2	2	1	1	0	Breeder
+Common Yellowthroat	0	1	0	0	1	Breeder
+American Redstart	0	0	0	0	1	Breeder
+Northern Parula	0	0	2	0	0	Breeder
+Yellow Warbler	1	0	0	0	0	Breeder
+(Myrtle Warbler) Yellow-rumped Warbler	0	0	0	1	1	Breeder
+Number of Vehicles	0	0	0	1	3
+Excessive Noise
+Species	6	7	8	9	10
+Canada Goose	22	4	8	5	2	Breeder
+Mallard	0	0	20	0	0	Breeder
+American Black Duck	0	0	4	4	0	Breeder
+Ring-necked Pheasant	0	1	2	1	0	Breeder
+Mourning Dove	0	1	1	0	0	Breeder
+Rock Pigeon	0	0	0	0	6	Breeder
+Ruby-throated Hummingbird	0	1	0	0	0	Breeder
+Osprey	0	0	0	1	0	Breeder
+Northern Harrier	0	0	1	0	0	Breeder
+Bald Eagle	0	0	0	2	0	Breeder
+Alder Flycatcher	0	0	0	1	0	Breeder
+American Crow	2	1	1	1	0	Breeder
+Tree Swallow	0	2	1	0	0	Breeder
+Cedar Waxwing	0	0	0	2	0	Breeder
+European Starling	4	2	0	0	0	Breeder
+American Robin	1	0	0	0	0	Breeder
+Nelson's Sparrow	0	0	0	0	1	Breeder
+Savannah Sparrow	1	0	0	0	2	Breeder
+Song Sparrow	0	0	0	1	1	Breeder
+Swamp Sparrow	0	0	0	1	0	Breeder
+Bobolink	1	2	0	1	3	Breeder
+Red-winged Blackbird	0	0	6	5	0	Breeder
+Common Grackle	0	0	2	0	0	Breeder
+American Redstart	1	1	0	0	0	Breeder
+Yellow Warbler	0	0	1	2	0	Breeder
+Number of Vehicles	2	1	1	4	1
+Excessive Noise
+Species	11	12	13	14	15
+Canada Goose	1	0	0	0	0	Breeder
+Ring-necked Pheasant	0	1	1	1	0	Breeder
+Mourning Dove	0	0	0	2	0	Breeder
+Rock Pigeon	0	2	0	0	0	Breeder
+Sora	0	1	0	0	0	Breeder
+Alder Flycatcher	1	2	0	0	1	Breeder
+Red-eyed Vireo	0	0	0	1	1	Breeder
+Blue Jay	0	0	0	1	0	Breeder
+Common Raven	0	0	2	0	0	Breeder
+Tree Swallow	0	0	25	0	0	Breeder
+Cedar Waxwing	0	0	0	4	0	Breeder
+Gray Catbird	1	0	0	0	0	Breeder
+European Starling	0	0	1	1	0	Breeder
+American Robin	0	0	0	1	0	Breeder
+American Goldfinch	2	0	1	0	0	Breeder
+Savannah Sparrow	0	1	2	0	0	Breeder
+Song Sparrow	2	0	1	0	2	Breeder
+Swamp Sparrow	0	1	0	0	0	Breeder
+Bobolink	2	1	1	0	0	Breeder
+Ovenbird	0	0	0	0	1	Breeder
+Common Yellowthroat	0	2	0	0	0	Breeder
+Black-throated Blue Warbler	0	0	0	0	1	Breeder
+Number of Vehicles	2	4	3	5	6
+Excessive Noise
+Species	16	17	18	19	20
+Canada Goose	0	0	1	0	0	Breeder
+Ring-necked Pheasant	0	1	0	0	0	Breeder
+Pied-billed Grebe	0	0	1	0	0	Breeder
+Mourning Dove	0	2	0	0	2	Breeder
+Sora	0	0	1	0	0	Breeder
+Alder Flycatcher	0	0	1	1	0	Breeder
+Least Flycatcher	0	0	1	0	0	Breeder
+Philadelphia Vireo	0	0	0	0	1	Breeder
+Red-eyed Vireo	0	1	0	0	0	Breeder
+Blue Jay	1	1	1	0	0	Breeder
+American Crow	0	1	0	0	0	Breeder
+Tree Swallow	0	0	2	0	0	Breeder
+Cedar Waxwing	1	0	2	0	0	Breeder
+Carolina Wren	1	0	0	0	0	Breeder
+Gray Catbird	0	0	1	0	0	Breeder
+European Starling	0	5	0	0	0	Breeder
+American Robin	1	0	1	1	0	Breeder
+White-throated Sparrow	1	0	0	0	1	Breeder
+Song Sparrow	0	1	0	1	0	Breeder
+Swamp Sparrow	0	0	1	0	0	Breeder
+Red-winged Blackbird	0	0	6	0	0	Breeder
+Common Grackle	0	0	0	1	0	Breeder
+Ovenbird	2	0	0	0	2	Breeder
+Common Yellowthroat	0	0	1	0	0	Breeder
+Cape May Warbler	1	0	0	0	0	Breeder
+Northern Parula	1	2	0	0	0	Breeder
+Magnolia Warbler	1	0	0	0	0	Breeder
+Blackburnian Warbler	0	0	0	1	0	Breeder
+Yellow Warbler	0	0	1	0	0	Breeder
+Chestnut-sided Warbler	0	2	0	0	0	Breeder
+(Myrtle Warbler) Yellow-rumped Warbler	0	0	0	0	1	Breeder
+Number of Vehicles	5	2	1	2	5
+Excessive Noise
+Species	21	22	23	24	25
+Alder Flycatcher	0	0	0	0	1	Breeder
+Least Flycatcher	0	0	0	0	1	Breeder
+Philadelphia Vireo	0	1	0	0	0	Breeder
+Red-eyed Vireo	0	0	1	1	0	Breeder
+Blue Jay	1	0	0	0	1	Breeder
+American Crow	0	0	0	0	6	Breeder
+Black-capped Chickadee	0	0	2	0	0	Breeder
+Cedar Waxwing	0	0	0	4	0	Breeder
+Red-breasted Nuthatch	1	0	0	0	0	Breeder
+Veery	1	0	0	0	0	Breeder
+American Robin	1	2	0	0	0	Breeder
+White-throated Sparrow	0	1	2	1	0	Breeder
+Ovenbird	4	2	2	0	0	Breeder
+Nashville Warbler	0	0	1	1	0	Breeder
+Common Yellowthroat	0	0	1	0	0	Breeder
+American Redstart	0	0	0	2	0	Breeder
+Northern Parula	0	0	1	0	0	Breeder
+Blackburnian Warbler	0	1	0	0	0	Breeder
+Yellow Warbler	0	0	0	0	1	Breeder
+Chestnut-sided Warbler	0	0	0	0	1	Breeder
+(Myrtle Warbler) Yellow-rumped Warbler	0	1	0	0	1	Breeder
+Number of Vehicles	3	6	1	7	5
+Excessive Noise
+Species	26	27	28	29	30
+American Wigeon	0	0	0	4	0	Breeder
+Ring-necked Pheasant	0	0	0	1	1	Breeder
+Bald Eagle	0	0	0	1	0	Breeder
+Alder Flycatcher	1	0	2	2	0	Breeder
+Red-eyed Vireo	0	1	0	0	0	Breeder
+American Crow	4	0	1	0	1	Breeder
+Black-capped Chickadee	2	0	0	0	0	Breeder
+Cedar Waxwing	0	0	0	2	0	Breeder
+Red-breasted Nuthatch	1	0	0	0	0	Breeder
+European Starling	0	0	0	2	2	Breeder
+American Robin	1	1	2	0	0	Breeder
+American Goldfinch	0	0	0	0	1	Breeder
+Song Sparrow	0	0	1	2	0	Breeder
+Ovenbird	0	2	0	0	0	Breeder
+Black-and-white Warbler	2	0	0	0	0	Breeder
+Common Yellowthroat	0	0	0	0	1	Breeder
+Northern Parula	1	0	0	0	0	Breeder
+Yellow Warbler	0	0	2	1	0	Breeder
+Chestnut-sided Warbler	0	1	0	0	1	Breeder
+(Myrtle Warbler) Yellow-rumped Warbler	0	0	1	0	0	Breeder
+Number of Vehicles	4	3	4	3	0
+Excessive Noise
+Species	31	32	33	34	35
+Canada Goose	0	0	0	1	0	Breeder
+Gadwall	0	0	0	2	0	Breeder
+American Wigeon	0	0	0	6	0	Breeder
+Mallard	0	3	0	0	0	Breeder
+American Black Duck	0	0	0	1	0	Breeder
+Ring-necked Duck	0	0	0	4	0	Breeder
+Ring-necked Pheasant	1	0	0	1	0	Breeder
+Ruby-throated Hummingbird	0	0	0	0	1	Breeder
+Sora	0	0	0	1	0	Breeder
+Great Blue Heron	0	0	0	3	0	Breeder
+Bald Eagle	0	0	0	1	1	Breeder
+Alder Flycatcher	1	0	0	0	0	Breeder
+Least Flycatcher	0	0	0	1	0	Breeder
+Red-eyed Vireo	1	0	0	0	0	Breeder
+Blue Jay	0	1	0	0	1	Breeder
+American Crow	1	0	0	0	2	Breeder
+Black-capped Chickadee	0	1	2	0	2	Breeder
+Tree Swallow	0	2	0	1	0	Breeder
+Cedar Waxwing	0	0	0	1	0	Breeder
+Red-breasted Nuthatch	0	0	0	0	1	Breeder
+European Starling	0	1	1	5	0	Breeder
+American Robin	0	0	0	0	1	Breeder
+Song Sparrow	2	2	2	0	1	Breeder
+Swamp Sparrow	0	0	0	1	0	Breeder
+Red-winged Blackbird	0	1	0	9	0	Breeder
+Black-and-white Warbler	1	0	0	0	0	Breeder
+Common Yellowthroat	1	1	2	0	0	Breeder
+Yellow Warbler	0	1	1	2	1	Breeder
+Chestnut-sided Warbler	0	0	0	0	1	Breeder
+(Myrtle Warbler) Yellow-rumped Warbler	0	0	0	0	1	Breeder
+Number of Vehicles	0	0	0	0	0
+Excessive Noise
+Species	36	37	38	39	40
+Mourning Dove	0	2	0	0	0	Breeder
+American Herring Gull	0	1	0	0	0	Breeder
+Yellow-bellied Sapsucker	1	0	0	0	0	Breeder
+Downy Woodpecker	1	0	0	0	0	Breeder
+Alder Flycatcher	0	1	1	0	0	Breeder
+Eastern Phoebe	1	0	0	0	0	Breeder
+American Crow	1	2	1	0	0	Breeder
+Black-capped Chickadee	2	0	0	0	0	Breeder
+Golden-crowned Kinglet	0	0	0	1	0	Breeder
+Cedar Waxwing	0	2	2	0	0	Breeder
+European Starling	2	6	1	0	0	Breeder
+American Robin	1	0	0	3	0	Breeder
+American Goldfinch	1	0	0	0	0	Breeder
+White-throated Sparrow	1	0	0	0	0	Breeder
+Song Sparrow	0	2	2	1	0	Breeder
+Ovenbird	1	0	0	2	1	Breeder
+Black-and-white Warbler	0	0	0	1	1	Breeder
+Common Yellowthroat	0	1	1	0	0	Breeder
+Blackburnian Warbler	0	0	0	0	1	Breeder
+Chestnut-sided Warbler	2	0	0	1	0	Breeder
+Black-throated Green Warbler	0	0	0	0	1	Breeder
+Number of Vehicles	0	0	0	1	3
+Excessive Noise
+Species	41	42	43	44	45
+Mourning Dove	1	0	0	0	1	Breeder
+Ruby-throated Hummingbird	0	1	0	0	0	Breeder
+Downy Woodpecker	1	0	0	0	0	Breeder
+Alder Flycatcher	0	2	2	0	1	Breeder
+Blue-headed Vireo	0	0	0	0	1	Breeder
+Red-eyed Vireo	1	0	0	0	0	Breeder
+Blue Jay	2	0	3	0	0	Breeder
+American Crow	1	0	0	4	0	Breeder
+Black-capped Chickadee	0	0	0	1	2	Breeder
+Tree Swallow	0	0	1	0	0	Breeder
+Cedar Waxwing	0	0	2	0	0	Breeder
+European Starling	5	4	1	1	0	Breeder
+American Robin	1	0	0	1	0	Breeder
+American Goldfinch	1	0	1	0	0	Breeder
+White-throated Sparrow	0	1	0	0	0	Breeder
+Song Sparrow	0	2	2	1	0	Breeder
+Black-and-white Warbler	0	0	0	0	1	Breeder
+American Redstart	0	1	0	1	0	Breeder
+Northern Parula	1	0	0	0	1	Breeder
+Yellow Warbler	0	0	1	0	0	Breeder
+Chestnut-sided Warbler	0	0	0	1	0	Breeder
+Black-throated Green Warbler	0	0	0	0	1	Breeder
+Number of Vehicles	0	2	0	1	0
+Excessive Noise
+Species	46	47	48	49	50
+Ruffed Grouse	0	1	0	0	0	Breeder
+Alder Flycatcher	2	1	1	1	0	Breeder
+Least Flycatcher	0	0	0	1	0	Breeder
+Philadelphia Vireo	0	0	1	0	0	Breeder
+Red-eyed Vireo	0	0	0	0	1	Breeder
+Blue Jay	0	0	0	1	0	Breeder
+American Crow	0	1	0	1	0	Breeder
+Common Raven	0	0	0	1	0	Breeder
+Black-capped Chickadee	0	2	0	0	0	Breeder
+Red-breasted Nuthatch	1	0	0	0	0	Breeder
+European Starling	1	0	0	0	0	Breeder
+Swainson's Thrush	0	0	0	0	1	Breeder
+Hermit Thrush	0	1	0	0	0	Breeder
+American Robin	4	1	0	0	1	Breeder
+White-throated Sparrow	0	1	1	1	0	Breeder
+Song Sparrow	1	0	0	1	0	Breeder
+Ovenbird	0	1	1	0	2	Breeder
+Black-and-white Warbler	0	1	0	0	0	Breeder
+Common Yellowthroat	2	2	1	0	0	Breeder
+American Redstart	0	0	1	0	1	Breeder
+Blackburnian Warbler	0	0	0	0	1	Breeder
+Yellow Warbler	1	0	0	0	0	Breeder
+Chestnut-sided Warbler	0	0	0	1	0	Breeder
+Black-throated Green Warbler	1	0	0	0	1	Breeder
+Number of Vehicles	0	0	0	0	0
+Excessive Noise
